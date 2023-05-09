@@ -1,0 +1,1 @@
+![tests](https://github.com/Trevinter/hexlet_pytest/blob/main/.github/workflows/pyci.yml/badge.svg)
