@@ -1,1 +1,1 @@
-[![Python CI](https://github.com/Trevinter/hexlet_pytest/actions/workflows/pyci.yml/badge.svg)](https://github.com/Trevinter/hexlet_pytest/actions/workflows/pyci.yml)
+[![TEST](https://github.com/Trevinter/hexlet_pytest/actions/workflows/pyci.yml/badge.svg)](https://github.com/Trevinter/hexlet_pytest/actions/workflows/pyci.yml)
